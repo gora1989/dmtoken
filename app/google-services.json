@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "860487719367",
+    "firebase_url": "https://token-e4d93.firebaseio.com",
+    "project_id": "token-e4d93",
+    "storage_bucket": "token-e4d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860487719367:android:a167d16cb00a6cff",
+        "android_client_info": {
+          "package_name": "com.food.awesomepalace.token"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860487719367-9s6ot3mvsal3203ulmbufbrmltjs1re0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfXMDMvIu6Fx8ImgkkOa2rzvNow88a0XM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860487719367:android:4da6c80844660b75",
+        "android_client_info": {
+          "package_name": "dm.com.token"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860487719367-9s6ot3mvsal3203ulmbufbrmltjs1re0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfXMDMvIu6Fx8ImgkkOa2rzvNow88a0XM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
